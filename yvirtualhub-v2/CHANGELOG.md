@@ -1,3 +1,8 @@
+## 2.1.10683
+
+- Fix dead lock in Home Assistant
+
+
 ## 2.1.10607
 
 - Add --renew_cert option
