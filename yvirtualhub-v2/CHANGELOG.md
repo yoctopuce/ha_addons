@@ -1,4 +1,4 @@
-## 2.1.10683
+## 2.1.10684
 
 - Fix dead lock in Home Assistant
 
