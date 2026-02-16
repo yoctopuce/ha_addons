@@ -1,3 +1,9 @@
+## 2.1.11996
+
+- Add Confirmation window when reverting settings from config window
+- Improve power capture display
+
+
 ## 2.1.10684
 
 - Fix dead lock in Home Assistant

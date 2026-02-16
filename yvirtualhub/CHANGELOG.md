@@ -1,3 +1,9 @@
+## 1.11.11996
+
+- Add Confirmation window when reverting settings from config window
+- Improve power capture display
+
+
 ## 1.10.69120
 
 - Minor Fix in VirtualHub Control
