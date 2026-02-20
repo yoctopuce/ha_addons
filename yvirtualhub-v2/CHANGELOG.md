@@ -1,3 +1,12 @@
+## 2.1.12147
+
+- Improve behaviour of log windows
+- Improve power capture display
+- Add Confirmation window when reverting settings from config window
+- Fix private key regeneration
+- Fix HTTPS certificate generation
+
+
 ## 2.1.11996
 
 - Add Confirmation window when reverting settings from config window
