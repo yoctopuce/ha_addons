@@ -1,3 +1,9 @@
+## 2.1.12672
+
+- Improve behaviour of log windows
+- Update Mbed TLS library (use v4.1)
+
+
 ## 2.1.12147
 
 - Improve behaviour of log windows
