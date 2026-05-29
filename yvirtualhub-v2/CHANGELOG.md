@@ -1,3 +1,9 @@
+## 2.1.14003
+
+- Improve file manager
+- Improve behaviour of log window with large logs
+
+
 ## 2.1.12672
 
 - Improve behaviour of log windows
