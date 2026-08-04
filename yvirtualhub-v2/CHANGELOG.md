@@ -1,3 +1,9 @@
+## 2.1.15391
+
+- Fix missing notifications with VirtualHub for web on http server that return chunk encoding data
+- Fix USB support on Raspberry PI 1 that use Debian Trixie
+
+
 ## 2.1.14654
 
 - Fix buffer overflow on a host with more than 8 network interfaces
