@@ -1,3 +1,8 @@
+## 2.1.15932
+
+- Add import button for easier to VirtualHub for Web
+
+
 ## 2.1.15391
 
 - Fix missing notifications with VirtualHub for web on http server that return chunk encoding data

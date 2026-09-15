@@ -1,3 +1,8 @@
+## 1.11.15932
+
+- Add import button for easier to VirtualHub for Web
+
+
 ## 1.11.11996
 
 - Add Confirmation window when reverting settings from config window
